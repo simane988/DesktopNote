@@ -1,0 +1,19 @@
+textarea {
+    background-color:  #E3C74C;
+	/* = Убираем скролл */
+	overflow: auto;
+
+	resize: none;
+	width: 325px;
+	height: 325px;
+
+    font-size: 16px;
+    font-weight: bold;
+
+	border: 0px;
+    outline: none;
+	-moz-appearance: none;
+}
+body{
+    background-color:  #E3C74C;
+}
